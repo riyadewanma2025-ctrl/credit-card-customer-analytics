@@ -1,5 +1,5 @@
 # Credit Card Customer Intelligence & Churn Analytics
-
+### 📊 [View Interactive Dashboard](https://riyadewanma2025-ctrl.github.io/credit-card-customer-analytics/)
 ## Overview
 
 An end-to-end customer analytics project designed to identify behavioural drivers of credit-card attrition, segment customers by engagement and value, predict churn risk, and translate analytical findings into actionable retention priorities.
